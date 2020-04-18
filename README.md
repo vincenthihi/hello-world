@@ -8,6 +8,7 @@ Interface Multiplier & Divider:
 
 Class Calculator:
 -Created a field called total which equaled 1
+-created Getters&Setters to grab the protected int variable "Total"
 -The heavy duty of the code. I used this class to formulate equations for the int y for multiply and divide.
 There was one problem though, because we cannot divide by zero, we must place a throws exception within the code, which I specified within my code comments itself. 
 
